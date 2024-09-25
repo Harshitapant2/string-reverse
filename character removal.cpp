@@ -1,3 +1,4 @@
+//Construct a C++ program that removes a specific character from a given string and return the updated string.
 #include<iostream>
 #include<string.h>
 using namespace std;
